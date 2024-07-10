@@ -1,7 +1,6 @@
 ## Thanks for stopping by! 👋
 I'm Megan and new to the tech world. I've worked professionally with data for the last 8 years to gain insights around customer behavior, preferences, and trends. I loved creating customer stories and working collaboratively but I felt I could delve deeper into my expertise and stretch my skills, leading me to pursue learning Java, JavaScript/HTML/CSS, and SQL. 
-<br>
-I have hands-on collaborative experience working with Java, JavaScript/HTML/CSS, SQL, and Vue.js.
+
 
 <!--
 **megsummer/megsummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
