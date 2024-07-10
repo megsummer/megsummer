@@ -1,5 +1,5 @@
 ## Thanks for stopping by! 👋
-I'm Megan and new to the tech world. I've worked professionally with data for the last 8 years to gain insights around customer behavior, preferences, and trends. I loved creating customer stories and working collaboratively but I felt I could delve deeper into my expertise and stretch my skills, leading me to pursue learning Java, JavaScript/HTML/CSS, and SQL. 
+I'm Megan and new to the tech world. I've worked professionally with data for the last 8 years to gain insights around customer behavior, preferences, and trends. I loved creating customer stories and working collaboratively, but I felt I could delve deeper into my expertise and stretch my skills, leading me to pursue learning Java, JavaScript/HTML/CSS, and SQL. 
 
 
 <!--
