@@ -1,7 +1,7 @@
 ## Thanks for stopping by! 👋
 ***I'm Megan and new to the tech world.***
 <br></br>
-For the past 8 years I have been transforming complex customer behaviors, preferences, and trends into actionable insights that drive meaningful change. I've loved crafting customer narratives and collaborating with others to bring them to life.
+For the past 8 years I have been transforming complex customer behaviors and trends into actionable insights that drive meaningful change. I've loved crafting customer narratives and collaborating with others to bring them to life.
 My desire for growing and learning led me to dive deeper into my technical skills where I've learned Java, JavaScript, HTML/CSS, and SQL. 
 <br><br>
 <i>Coming soon:</i> Tarot Card application
